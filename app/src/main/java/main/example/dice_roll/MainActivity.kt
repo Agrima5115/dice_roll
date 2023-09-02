@@ -1,4 +1,4 @@
-package main.example.dice_ro
+package main.example.dice_roll
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
